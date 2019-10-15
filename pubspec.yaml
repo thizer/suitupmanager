@@ -8,7 +8,7 @@ environment:
   sdk: '>=2.2.0 <3.0.0'
 
 dependencies:
-#  colorize: ^2.0.0
+  colorize: ^2.0.0
 #  path: ^1.4.1
 
 dev_dependencies:
